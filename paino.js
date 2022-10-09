@@ -2,7 +2,7 @@
 const WIDTH = 100;
 const HEIGHT = 150;
 
-const WINNING_SCORE = 30;
+const WINNING_SCORE = 300;
 
 var time; // countdown
 var score; // number of tiles clicked correctly
